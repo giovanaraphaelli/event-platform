@@ -15,6 +15,7 @@ Projeto desenvolvido através do Evento Ignite Lab da [Rockestseat](https://www.
 Para o desenvolvimento deste site utilizamos as seguintes tecnologias:
 
 - React JS;
+- Typescript;
 - Vite;
 - GraphCMS;
 - Apollo Client;
